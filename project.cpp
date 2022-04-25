@@ -2,7 +2,7 @@
 using namespace std;
 //author: Kean Whatanak
 
-
+//update
 int main()
 {
     int input = -1;
